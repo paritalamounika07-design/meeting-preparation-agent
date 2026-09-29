@@ -1,0 +1,4 @@
+hindsight-client
+streamlit
+groq
+python-dotenv
